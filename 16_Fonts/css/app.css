@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'IndieFlower';
+
+  src: url('../fonts/IndieFlower.ttf');
+}
+
+h1 {
+  font-family: 'IndieFlower';
+}
